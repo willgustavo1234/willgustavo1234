@@ -25,5 +25,6 @@
        <img height="180em" src="https://github-readme-stats.vercel.app/api?username=willgustavo1234&show_icons=true&theme=cobalt">
        <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=willgustavo1234&theme=cobalt&layout=compact&langs_count=8%22/%3E">
     </a>
-</div> 
+</div>
+
 ![Snake animation](https://github.com/willgustavo1234/willgustavo1234/blob/output/github-contribution-grid-snake.svg)
